@@ -24,7 +24,7 @@ class MyResume extends JFrame {
         gbc.gridwidth = 2;
         jp2.add(t2, gbc);
 
-        JLabel l3 = new JLabel("DOB:");
+        JLabel l3 = new JLabel("Birthday:");
         gbc.gridx = 0;
         gbc.gridy = 1;
         gbc.gridwidth = 1;
@@ -36,7 +36,7 @@ class MyResume extends JFrame {
         gbc.gridwidth = 2;
         jp2.add(t3, gbc);
 
-        JLabel l4 = new JLabel("GENDER:");
+        JLabel l4 = new JLabel("Gender:");
         gbc.gridx = 0;
         gbc.gridy = 2;
         gbc.gridwidth = 1;
